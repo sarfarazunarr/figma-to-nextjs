@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Creating NextJS Desing from Figma Design
 
-## Getting Started
+This project is a simple portfolio website developed using Next.js, based on a design created in Figma. It was completed as part of an assignment at GIAIC.
 
-First, run the development server:
+## Demo
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+You can view the demo of the project here: [Demo Link](https://www.linkedin.com/posts/sarfarazunar_nextjs-learning-figma-activity-7253637692905639936-k_86?utm_source=share&utm_medium=member_desktop).
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Responsive design
+- Clean and modern user interface
+- Easy navigation
+- Built with Next.js for optimal performance
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Technologies Used
 
-## Learn More
+- **Next.js**: A React framework for building server-side rendered applications.
+- **Figma**: A collaborative interface design tool used to create the initial design.
 
-To learn more about Next.js, take a look at the following resources:
+## Installation
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+To run this project locally, follow these steps:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sarfarazunarr/figma-to-nextjs
+   ```
+2. Install the dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-## Deploy on Vercel
+## Acknowledgments
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+I would like to express my gratitude to our esteemed instructors, Sir Bilal Ahmed Khan and Aneeq Khatri, for their guidance and support throughout this learning journey. Their insights have been invaluable in helping me grow as a developer.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Feel free to explore the code and provide feedback!
+
+Citations:
+[1] https://www.linkedin.com/posts/sarfarazunar_nextjs-learning-figma-activity-7253637692905639936-k_86
