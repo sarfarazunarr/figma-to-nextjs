@@ -10,7 +10,7 @@ const Footer = () => {
                 <FaTwitter size={30} className=' text-bluish' />
                 <FaLinkedin size={30} className=' text-bluish' />
             </div>
-            <h4 className='font-heebo text-[22px] text-center font-semibold py-5'>Copyright ©2020 All rights reserved </h4>
+            <h4 className='font-heebo text-lg md:text-[22px] text-center font-semibold py-5'>Copyright ©2020 All rights reserved </h4>
         </footer>
     )
 }
