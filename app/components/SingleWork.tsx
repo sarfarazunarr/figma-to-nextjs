@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import React from 'react'
 
-const SingleWork = ({number}: {number: Number}) => {
+const SingleWork = ({number}: {number: string}) => {
     return (
         <div className='flex flex-col md:flex-row justify-start gap-5 items-center'>
             <Image src={`/images/work${number}.jpg`} alt='work1' width={200} height={200} className='w-full md:w-[246px] md:h-[180px] rounded-md' />
